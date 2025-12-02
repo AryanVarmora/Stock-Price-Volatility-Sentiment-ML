@@ -13,9 +13,8 @@ It aims to predict stock price direction and volatility using both historical ma
 ---
 
 ## 📊 Data Sources
-- [Yahoo Finance](https://finance.yahoo.com) – Stock data (AAPL, TSLA, MSFT).
+- [Nasdaq](https://www.nasdaq.com/)  – Stock data (AAPL, TSLA, MSFT).
 - [Kaggle: Stock Market News Sentiment](https://www.kaggle.com/datasets/yusufali9/stock-market-news-sentiments).
-- [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/).
 
 ---
 
