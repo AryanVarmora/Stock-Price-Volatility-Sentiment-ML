@@ -25,7 +25,7 @@ It aims to predict stock price direction and volatility using both historical ma
 ---
 
 ## 🧩 Project Workflow
-1. Data collection via `yfinance` and Kaggle datasets.
+1. Data collection via `Nasdaq` and Kaggle datasets.
 2. Feature engineering: RSI, EMA, MACD, Bollinger Bands, and sentiment features.
 3. PCA for dimensionality reduction.
 4. Model training and comparison (LogReg, SVM, NN).
